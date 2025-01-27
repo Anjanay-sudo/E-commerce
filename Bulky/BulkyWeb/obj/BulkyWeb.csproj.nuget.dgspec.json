@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dotnet\\Bulky\\BulkyWeb\\BulkyWeb.csproj": {}
+    "G:\\Github\\E-commerce\\Bulky\\BulkyWeb\\BulkyWeb.csproj": {}
   },
   "projects": {
-    "D:\\Dotnet\\Bulky\\BulkyWeb\\BulkyWeb.csproj": {
+    "G:\\Github\\E-commerce\\Bulky\\BulkyWeb\\BulkyWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dotnet\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
+        "projectUniqueName": "G:\\Github\\E-commerce\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
         "projectName": "BulkyWeb",
-        "projectPath": "D:\\Dotnet\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
+        "projectPath": "G:\\Github\\E-commerce\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "D:\\Dotnet\\Bulky\\BulkyWeb\\obj\\",
+        "outputPath": "G:\\Github\\E-commerce\\Bulky\\BulkyWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
